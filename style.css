@@ -47,6 +47,14 @@ body {
   bottom: 30px;
   font-size: 14px;
 }
+.sidebar-footer a[href*="github"]:hover {
+  color: #000;
+}
+
+.sidebar-footer a[href*="linkedin"]:hover {
+  color: #0a66c2;
+}
+
 
 .content {
   margin-left: 260px;
