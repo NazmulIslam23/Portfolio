@@ -166,17 +166,15 @@ body {
   font-weight: 500;
 }
 
-/* For education cards */
 .edu-card img {
-  width: 80px;        /* or whatever size fits your layout */
+  width: 80px;       
   height: 80px;
-  object-fit: cover;  /* ensures the image keeps aspect ratio and fills the box */
-  border-radius: 8px; /* optional rounded corners */
+  object-fit: cover; 
+  border-radius: 8px; 
 }
 
-/* For activity cards */
 .card img {
-  width: 80px;        /* same size as edu-card for consistency */
+  width: 80px;       
   height: 80px;
   object-fit: cover;
   border-radius: 8px;
