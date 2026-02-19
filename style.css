@@ -110,6 +110,16 @@ body {
 .edu-card img {
   width: 60px;
 }
+.edu-card h3 a {
+  color: #222;
+  text-decoration: none;
+}
+
+.edu-card h3 a:hover {
+  color: #0077ff;
+  text-decoration: underline;
+}
+
 
 .cv-btn {
   display: inline-block;
@@ -178,6 +188,15 @@ body {
   height: 80px;
   object-fit: cover;
   border-radius: 8px;
+}
+.card h3 a {
+  color: #222;
+  text-decoration: none;
+}
+
+.card h3 a:hover {
+  color: #0077ff;
+  text-decoration: underline;
 }
 
 
